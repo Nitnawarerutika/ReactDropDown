@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# React-Drop-down
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -72,8 +73,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## Screenshot
+## Screenshots
 
+![Capture1](https://github.com/Nitnawarerutika/ReactDropDown/assets/130966188/41b0949d-fe06-4e78-9766-33c09945b9a4)
+
+![Capture2](https://github.com/Nitnawarerutika/ReactDropDown/assets/130966188/f44f98c0-bb8e-4680-8e36-48716d8ebc48)
 
 
 
